@@ -1,7 +1,5 @@
-
 # The following ignores all, then unignores all with extensions,
 # and finally unignores all directories.
 *
 !*.*
 !*/
-.gitignore
